@@ -1,0 +1,5 @@
+# Copiaza acest fisier in db.properties si completeaza datele de conectare.
+# db.properties nu este urcat pe GitHub (este in .gitignore).
+db.url=jdbc:mysql://localhost:3306/magazin_piese
+db.user=root
+db.password=parola_ta
